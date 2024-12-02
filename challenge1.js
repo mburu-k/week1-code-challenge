@@ -1,4 +1,4 @@
-let score = 790;
+let score = 70;
 if (score > 79) {
     console.log ("Grade: A");
 } else if (score >= 60) {
