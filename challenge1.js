@@ -1,5 +1,6 @@
-let score = 70;
-if (score > 79) {
+if (marks > 100 || marks < 0 || isNaN(marks)){
+    console.log("invalid marks.")
+} else if (score > 79) {
     console.log ("Grade: A");
 } else if (score >= 60) {
     console.log ("Grade: B");
