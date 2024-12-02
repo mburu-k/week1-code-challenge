@@ -1,6 +1,4 @@
-const mark = (100) 
-    console.log ("Invalid")
-let score = 30;
+let score = 790;
 if (score > 79) {
     console.log ("Grade: A");
 } else if (score >= 60) {
